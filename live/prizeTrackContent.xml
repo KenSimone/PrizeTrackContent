@@ -1,0 +1,8 @@
+<prizetrackContent version="2023.4.21.20">
+  <!-- PrizeTrack automated contest and giveaway entries -->
+  <!-- Visit https://prizetrack.net for more information -->
+  <entry type="contest" shortDesc="Win The Mirror Of Your Dreams From Arcus Home!" url="https://app.hive.co/l/3s289w" expires="5/6/2023" script="\2t\n\t{first}\t{last}\t{email}\t{city}, {state_two}\3t \t\n" reentryHours="24" author="" messageBoard="" version="1" longDesc="This contest is open to entrants in North America over 18 years of age, excluding Quebec. Winners will be contacted via email. No purchase necessary"/>
+  <entry type="contest" shortDesc="The Zebra Spring Break Giveaway" url="https://www.thezebra.com/giveaway/spring-break-giveaway/" expires="4/30/2023" script="\t\t\t\t{email}\t " reentryHours="0" author="" messageBoard="" version="1" longDesc=""/>
+  <entry type="contest" shortDesc="Hipcamp + REI + GearJunkie Save-A-Spot Sweepstakes" url="https://gearjunkie.com/saveaspot" expires="5/7/2023" script="\14t{first}\t{last}\t{email}\t " reentryHours="0" author="" messageBoard="" version="1" longDesc=""/>
+  <entry type="contest" shortDesc="Indulge in Luxury Escape to the Florida Keys Sweepstakes" url="https://giveaways.dojomojo.com/landing?promo_id=b1217a8a-12f3-4348-8dce-5fbdf3ef0ed7&amp;campaign_id=021ff5a1-1ec0-42be-b9db-d5680b490085" expires="4/30/2023" script="\t{email}\t{first}\t{last}\3t\n" reentryHours="0" author="" messageBoard="" version="1" longDesc=""/>
+</prizetrackContent>
