@@ -1,8 +1,45 @@
-<prizetrackContent version="2023.4.21.20">
-  <!-- PrizeTrack automated contest and giveaway entries -->
-  <!-- Visit https://prizetrack.net for more information -->
-  <entry type="contest" shortDesc="Win The Mirror Of Your Dreams From Arcus Home!" url="https://app.hive.co/l/3s289w" expires="5/6/2023" script="\2t\n\t{first}\t{last}\t{email}\t{city}, {state_two}\3t \t\n" reentryHours="24" author="" messageBoard="" version="1" longDesc="This contest is open to entrants in North America over 18 years of age, excluding Quebec. Winners will be contacted via email. No purchase necessary"/>
-  <entry type="contest" shortDesc="The Zebra Spring Break Giveaway" url="https://www.thezebra.com/giveaway/spring-break-giveaway/" expires="4/30/2023" script="\t\t\t\t{email}\t " reentryHours="0" author="" messageBoard="" version="1" longDesc=""/>
-  <entry type="contest" shortDesc="Hipcamp + REI + GearJunkie Save-A-Spot Sweepstakes" url="https://gearjunkie.com/saveaspot" expires="5/7/2023" script="\14t{first}\t{last}\t{email}\t " reentryHours="0" author="" messageBoard="" version="1" longDesc=""/>
-  <entry type="contest" shortDesc="Indulge in Luxury Escape to the Florida Keys Sweepstakes" url="https://giveaways.dojomojo.com/landing?promo_id=b1217a8a-12f3-4348-8dce-5fbdf3ef0ed7&amp;campaign_id=021ff5a1-1ec0-42be-b9db-d5680b490085" expires="4/30/2023" script="\t{email}\t{first}\t{last}\3t\n" reentryHours="0" author="" messageBoard="" version="1" longDesc=""/>
-</prizetrackContent>
+# Content Format: 1.0
+# Content Version 2023.4.23.55736
+# PrizeTrack automated contest and giveaway entries
+# Paste this text into PrizeTrack to enter and track these contests
+# Visit https://prizetrack.net for more information
+
+# Villa Maria Trip To New Zealand Sweepstakes - 7/10/2023
+owGWS+qUH+vXXqylXj7mloCP1cu6m9f3a6u5u1CBBO5h7XK5LBkqMJIAOgP35uRkNCJSZx/QE775WLYrmffTB1zzdB92GvTs180Ftq/NLQqWa9QrmtJlEtUNrCtCU/3NoPmdQzi7a8xCI4owT4mqhQc4uZUVyMy2w65Fj6kJcI6PcFGb5EhQH92sYfGuhg1swngWWrnL+gkRIs09Q4yR3+CQvYd/SkM2SoVZVgbuR9wMRWEXE178CtyGBu4s1K4IJ5SOSTTw0hGIiWSA+h4MmXEHcnGPwBdC+WA71o3TmCscNuZzRLQl2+1QtVs=
+
+# Win a limited-edition Fresh af sweatsuit! - 5/1/2023
+owGeFJaVGJvX3jvmfOsFlPzy0aS5g/tfY9qw6KpJyhKXv+D2Oi9/9smAIJI0oJRHlo1rrj1bar+47t/GUQPwsNcjSunLV7KRHXY47YLxwgVfrtsxm1SXfZBpsF+eHVtYAndUBax837IcRBnkZ1C+KdMn5nw2xWsqbgSMIEB28ZFB9vtZKwIphc0Cyc7Z9m3ilXRSjnI8TJkJJYwzQzmMEO8x9WgiFQxsFqYuCwfiwANG2lUPJsoHH8ncDHzYCEqNjO51rcwYWp5sjtqwX2o/JWnHJigO9MiQu1Y=
+
+# ShoeMall Spring Has Sprung Giveaway - 4/25/2023
+owGeVBqVGOvXXTTnnj+gQfaGSl3NS8vJYKsByJ9CsvgJ/2kITWXmMgs7LZIlNiQo0rh6jk/ueNpMuZr1+6OTjwVLRloQSysYXfv1Qqc3HgIpXYgerOR4hjfRuXm7u/P+KEiJEGnvLttVrnCqso8mhNVkaPy/2Nx+4H6sYXaGVaf13ZvLBb8VsnnBAlpriHL5ALOfvQA4sGmvJrQ5OwYMzrY7/bmKRLEkA8YAjcQ+ZoQpFoHVTex3DSm1+NSJrIls9GgCWENKA3yze6mTaiSmxQ8oGNRXp7mC
+
+# Cookie’s by Design “Mother’s Day” Cookie Sweepstakes - 5/23/2023
+owGeS+q1GOvXnixFWTv18Ko72/Zxz7PorzIPyPPtyNCt/5pPOLMQ7tFvTBCScQOeaEokpEtUp/3AmFlD5/J3RlYfylqAzDlNY40jPYe8M6EiuQP+E0Hig2OFZeSHt/KXIY18MD7cPf+nVZ9FeDVTyl0L8Le4Lyf/PuNVnuZeo0xBsok1VKnvrcRTJXeZaOT4CwJAm3drST6RTVCpTmoxu6ePU0s47DWs7F/Hgvsz+r09QK7/vaZ7jHyYqAQWZnJgXa8UXn7zLKlidcUMPqH+PW5ZHvVSwpHHfABpDzMvNAQUyVCRjzldL6mJkF/I3u0V8ReuNDe6pccRFhj0kP6n1g==
+
+# Great American Popcorn Company Win Popcorn For A Year Sweepstake - 8/31/2023
+owG2S5aUGOvXXTQn0RAs77BweVrTs1tb+MncH+oRZ/WBQJ+tbQmklGyVAF5A5ITkdMTzv8X6VFLXYcPpkp1Ltj8nkTnXZegC13BFA+DAO+j9zOIbkDdI1vinILA29ul3O1z3GAybT/8Axvo3YuhjFuISZg0Y6882iukWkF5QZsWnizyHtvnwcB2S31qlSLzJWJCGTGGBjy5fPQN8t8taMh8lyiznVvfLN+WUBxyNlPltfjyzoqZm9kasYO4ClVGbgrSvogAH7o6IcshKabxIzM3sQI8kKPJiQ89uj65ycSEyu5Ff2Gojw9eVqsyY4KTJLjgWxCArpXM=
+
+# Endless Summer Sweepstakes - 11/30/2023
+owGuS5qV2OrXnixH+SnlSBLXi1rTk3OTN6BZ8zhtiuiSv6CREDKSAJbsdyYkIJSlGPevjal1M/tP9xPZUSxev1bHx6c+8vpoAfcoV3/t5FNOHsRLmvZPxzee8WTBCOFuIPbyHoHxrHoXfSHGaRrAmihOeyJFW3zB0gJabr03FgvUuIDUz3Dj256jDiD10G6X1BH0CQ/1fGL6wCVoo0E1/4nXXNKmOfV4Q3ZqFJT08CDjMyT2b26hNy6+IDgz93P4yRxJQM9zjyk1LdPrNNSkc2K8hw==
+
+# Color Stars Sweepstake - 5/31/2023
+owGuSxqVGOvXXTTnnj+gQa2GcNbKS1vYLOaaE5eA9pD5AIYCAAjX0mOraCckIScS1MNedZF1wvYjz96CmypDk4VKZl5Mz8lyWOO5roPL6FDg+nNCWV6K/yhm6hBpjzQ4iyKv7SeIuahYwITLQdCZJJbsLr0ENK3dz6U9Ukv2r322EWWGxueWgvdb+WeqBQmXsH7dPr2C3pCvnb3sO6iprycOOusiCMqGO/F5Q9QILwZltGyAJlRRdeAG7WHHpWED3Q/eUnzP9neok6ojJd5DHGD0BtW9Dw==
+
+# Weston 10 Tray Digital Food Dehydrator Giveaway - 5/17/2023
+owGuSxaVGOvLXzTnHrE0dUaN+vEZ+3rRo9v/Ff0F/c1yxnZs1qKgB11k0GwOFTczQGZ+8+dYF/iCt4jPEVlLIB9peAeBp/ZQz3rpKxm1XYYzWWPaxYgpa3ilLTf/6udeyGISFtOcxfct+bhlCqFhh2RqUOV0Aa8LBky0ZoqIUxFyHnrxeH8/8GQ/8CTIdkFhc32JyNmmV1rygHeuDjNugrTRsBC6z1DTl0zpFDITHrnLB4qRSmive0eGnNQSaiR+EJizBOZi+nT5UgUwMWEF7QAdJ5xu9HYkeaZsin3r7THXr6RpzhlS41zP9k2ik2qApVIhNTHIVY6nXg==
+
+# Macmillan Children's Publishing - Fierce Reads Spring 2023 Sneak Peek Sweepstakes - 4/30/2023
+owGeSxqVGOvXXTTnXk7Y7PSG4O3S85Nby8x/Uuaak2btsUGfre0DAAjNA7WNNycl5QSIE6dZp5GP8MCY/RLRf1BHhJO3dgVWxkcs/RuoPKcYz3WWUan8a+anofxG0Pb7Z+G5kCuafcoD/kWFEHl3u8wTL2v+Mbosnk//QEWfGlqmdmFHSAexFjhsHitksro4e8gc+jEafa0UiY3pHn/qnj3L3i9Gx0gPsX5wmZRwnbcQ9T6B8rtBZgU5WhxKmVriPwqysdb/uYGhUV1A0FqjvCBdV0yee3csoWKFzB69qFi892+k3Jsar60cJrdVSFl7Fz3jOjtXV8joER7HjIPOg41UHKFyO5P39V2BVm5UeiZmYgnUjOQ2nVd9
+
+# Penguin Random House Share Jasmine Guillory with a Friend Sweeps - 4/30/2023
+owGGSxCVGOvLniynHrMtVShzaZtjk9PauV4zzIMS7+rjbe44by80konNG7U/KmblHKzP6YT7hMnCN7kT/8KaHRMiSn/oI526Q4ZbrMAh4xqQR14764H9o27pYpsr5+A0OAmpraLf0JQ38y+r48j+mkMCwMeolalwbmM+Xvkqg6+qCWktc1SwVIE4EXE4zYztaiiuWJuEEupSGka1kYZMMEKvN4ntUxtvwveHZ4fyyjdHzCGu7kpTxjP6gTWkyqMMpi2/Zs9aaeUxcbYQcbfATnVxUeyO7nVxMfQ5K3ghVI7tjm6IlnIxPSW/8V/IamPD1/VoVLpjpfwxJhbsg1qkIA==
+
+# Penguin Random House Vacation Gone Wrong Giveawa - 4/24/2023
+owGWS5qQH+vLXjQlUbo1sgE1aVnD3soNeKMLqLMc7QP9uv22NmTsts5frNNCLOkEEOYiH/B/7kka/SOfSct/1EdFksFYdD9gEqKjaGXW+GdfktMFtrhI0MV1GsinqyvGhwaXrWrTyNTdIE95B7L29WSDnzVQ/VehJRau4m238oJTeQMTLtJaZXi4yVi8hrxOAEbvN7npUxtveL3bFU3JGpXyuLV4Sp+3nJQaqSC0LjtBdE03+158f+SurmJPjqKAcKOviWesiSYNkiZqctaVNq9x4OF2MXcxdwg4t/FfQoNpCrvl1AKtp88xXEDEgzCozw==
+
+# Southwest Breathtaking Beats at Red Rocks Sweepstakes - 9/30/2023
+owGWixC1GevLZyzwjaDs1ZKaeXGA8jF6vCPZSPdSTrucYMDzpIRccfZsChWzxSCRiiLdoUATukh5SfNZL1IuWH+qo5NoLQynXkESsHSl02pY4bjadGt8zS1ywt/VjHmS6ZRZ6ygza4xGPx6BIi6DRhVNcj6etMozsNGXOau8cBlNnoI+M10Yf9XKQzUG5QgXgon7IzdJo3oV/zngcUg8Lfq91xYLScS+zpI2EnVsQDY9YvcXhNqop8O6VRDTOA4/lT2FERMk02jojroRMSY5DdPMudLy4Rejl2ogItUBbHy04wy06g==
+
+# Gear Up & Camp Sweepstakes - 5/14/2023
+owGOiYa0COvPpgR042l9ck5B/TIBmejZMR3d1FsRDVofQEAHfQ1HAwOV5CMuB7+YyKVrdzCoNeI8ATRz0jVfq2lPUBnvWqfLK+A4GZwpnvXlSq+jb2NLbmYZ1jSj48uCxD/IoloNMoc3mWvlUDhY6sCox8x9VTZ5cj6dW1WN4iliQx4y70X/SJC1hOO+mPXfxy4hRJYww0nTE+1rrayOSCxpebD4hiJxO27xRZFJAVTA0SrtlTwov+lE9nlRVp12VtFtwyKMUIrpUAmyD/KkAzxyG0VHjH0S3kRusnE8R7COcH0RS5Vp/07utQ3r1k0N8lYvFtPGxGnySn0Ct7ok2mURyAkyEC77N9PMZIDIdY0VD/1rVw+DSoh9p3XUFKMGsY5yVgnxR+l3Qijpo/PUFuXZTtPdQfG9KCuPEogp64Cv2VSW1KPTSeJmfsACE4m5mxyZbP4cGyxN7Y/XqgPCk5yTBDkfKDrF1Z1MP50n694CW/aMJUiDJcE6NRBztCc2HGMoYKkx1L7HTItidbVgmTwB8MTh5j2SF3mgcePpnOl2NKuw/E4tJnQyi/Ay5t2gcoAt9NgVzEwSa8xJY2WGBXRN5IpytpsatFUaIveSXbjKZOQg0O6aByM=
+
